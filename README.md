@@ -1,1 +1,1 @@
-# imalka
+# IBM full stack developer course
